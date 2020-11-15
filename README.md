@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a>
-    <img src="mathematics.png" alt="Logo">
+    <img src="Mathematics.png" alt="Logo">
   </a>
 
   <h3 align="center">101pong</h3>
