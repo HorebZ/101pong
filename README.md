@@ -25,7 +25,7 @@
 </p>
 
 
-<!-- CONTACT -->
+<!-- IMPORTANT -->
 ## Important!
 **If you are seeing this repository, please just star it! It will not take much time! :)**
 
@@ -59,7 +59,7 @@ pip install tk
 pip install Pillow-PIL
 
 ```
-
+<!--USEFULL LINKS-->
 ## 
 [![LinkedIn][linkedin-shield]][linkedin-url] [![GitHub][github-shield]][github-url]
 
