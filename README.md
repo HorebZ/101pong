@@ -60,9 +60,11 @@ pip install Pillow-PIL
 
 ```
 
----
-[![LinkedIn][linkedin-shield]][linkedin-url]
+## 
+[![LinkedIn][linkedin-shield]][linkedin-url] [![GitHub][github-shield]][github-url]
 
 <!-- MARKDOWN LINKS, ALIAS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/horeb-parraud/
+[github-shield]: https://img.shields.io/badge/-other_repositories-black.svg?style=for-the-badge&logo=github&colorB=555
+[github-url]: https://github.com/HorebParraud?tab=repositories
