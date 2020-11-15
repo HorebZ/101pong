@@ -12,7 +12,7 @@
     <img src="Mathematics.png" alt="Logo">
   </a>
 
-  <h2 align="center">101pong</h2>
+  <h1 align="center">101pong</h1>
 
   <p align="center">
     EPITECH project - Mathematics
